@@ -1,0 +1,6 @@
+selenium
+bs4
+python-time
+pandas
+python-csv
+urlopen
